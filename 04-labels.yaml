@@ -5,7 +5,7 @@ metadata:
   labels: 
     project: expense
     module: backend
-    env: dev
+    environment: dev
 
 spec:
   containers:
